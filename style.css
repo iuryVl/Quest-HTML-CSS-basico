@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.moda th{
+    color: white;
+    background-color: #BB86FC;
+    padding: 6px;
+}
+
+
+.casa th{
+    color: white;
+    background-color: #00C4B4;
+    padding: 6px;
+}
+
+td{
+    color: white;
+    background-color: #424250;
+    padding: 6px;
+}
